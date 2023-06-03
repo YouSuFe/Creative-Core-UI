@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 135ff3a8ea9d3c84c96bad2eb95c9adc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Crimson Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c197ab047795a8f4c97ad156a4c5ae75, type: 3}
+  - {fileID: 12800000, guid: b16054e558dddab49a70ef26f925b871, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
