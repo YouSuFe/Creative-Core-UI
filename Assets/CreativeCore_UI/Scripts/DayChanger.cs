@@ -16,10 +16,12 @@ public class DayChanger : MonoBehaviour
     public void OnDayButtonClicked()
     {
         dayLight.transform.rotation = Quaternion.Euler(new Vector3(50, -30, 0));
+        dayLight.color = Color.white;
     }
 
     public void OnNightButtonClicked()
     {
         dayLight.transform.rotation = Quaternion.Euler(new Vector3(-10, 289, 256));
+        dayLight.color = Color.black;
     }
 }
